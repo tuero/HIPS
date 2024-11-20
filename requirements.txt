@@ -1,5 +1,5 @@
 gym==0.25.1
-gym-sokoban
+gym-sokoban @ git+https://github.com/tuero/gym-sokoban@default
 imageio
 joblib
 matplotlib
